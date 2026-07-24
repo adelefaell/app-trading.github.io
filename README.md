@@ -1,6 +1,6 @@
 # ReactJS TradingApp
 
-Live URL: [TradingApp](https://app-trading.netlify.app/)
+Live URL: [TradingApp](https://app-trading.github.io/)
 
 ## Project Study:
 Youtube: [freeCodeCamp](https://www.youtube.com/watch?v=u6gSSpfsoOQ)
