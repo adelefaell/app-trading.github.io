@@ -5,7 +5,7 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/app-trading.github.io/',
+  base: '/app-trading/',
   plugins: [react()],
   resolve: {
     alias: {
